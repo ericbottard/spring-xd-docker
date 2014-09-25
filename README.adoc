@@ -1,1 +1,0 @@
-= Spring XD on Docker
