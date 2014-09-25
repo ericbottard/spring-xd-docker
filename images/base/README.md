@@ -3,6 +3,7 @@ This serves as the basis of the other Spring XD images. End users need not inter
 this docker image directly.
 
 This image 
+
  * creates a springxd user and group
  * pulls a Spring XD release
  * unzips it, as well as the ZooKeeper release embedded inside
